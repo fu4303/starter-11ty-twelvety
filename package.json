@@ -25,7 +25,7 @@
     "@babel/preset-env": "^7.12.13",
     "autoprefixer": "^10.2.4",
     "browserify": "^17.0.0",
-    "clean-css": "^5.0.1",
+    "clean-css": "^5.1.4",
     "critical": "^2.0.6",
     "cross-env": "^7.0.3",
     "deasync": "^0.1.21",
